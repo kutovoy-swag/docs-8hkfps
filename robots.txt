@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6nqw5r.privatetalks.online/sitemap.xml
